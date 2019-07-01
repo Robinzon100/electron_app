@@ -1,0 +1,14 @@
+{
+  "name": "electron_learn",
+  "version": "1.0.0",
+  "description": "my first electron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.4"
+  }
+}
